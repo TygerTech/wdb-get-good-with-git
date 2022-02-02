@@ -116,3 +116,5 @@ These **9 commands** are absolutely the BASIC ones you will most likely use for 
 ## TEST 👇
 
 Here's a link to the previous version of this `README.md` renamed [LearnGIT.md](LearnGIT.md).
+
+## Here is MY first README.md edit while learning to use `git` with the assistance of my good friend Jamie Aleman. Check out his [GitHub Repo!](https://github.com/jjaimealeman).
